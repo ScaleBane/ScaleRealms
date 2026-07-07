@@ -12,6 +12,10 @@
       "fromClass": "/AAXipachtinus/Dinos/XiphactinusAA_Character_BP.XiphactinusAA_Character_BP",
       "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
     },
+	{
+      "fromClass": "/AAXipachtinus/Dinos/XiphactinusAA_Abyssal_Character_BP.XiphactinusAA_Abyssal_Character_BP_C",
+      "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
+    },
     {
       "fromClass": "/Gigantoraptor/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP",
       "toClass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP"
@@ -30,6 +34,14 @@
     },
     {
       "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    },
+	{
+      "fromClass": "/AAAcro/Dinos/Asc_AcrocanthosaurusAA_Character_BP.Asc_AcrocanthosaurusAA_Character_BP_C",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    },
+	{
+      "fromClass": "/AAAcro/Dinos/SE_AcrocanthosaurusAA_Character_BP.SE_AcrocanthosaurusAA_Character_BP_C",
       "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     }
   ]
